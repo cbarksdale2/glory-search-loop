@@ -20,6 +20,10 @@ from .core import NamedStop, local_date, iso_week, now, read_json, spath, write_
 SCHEDULE = [
     ("collect", None, "06:00", "loop.collect:run"),
     ("heartbeat", None, "06:00", "loop.tick:heartbeat_job"),
+    ("pick", 6, "18:00", "loop.pick:run"),
+    ("draft", 6, "20:00", "loop.draft:run"),
+    ("publish", 0, "08:00", "loop.publish:run"),
+    ("heal", 0, "09:00", "loop.heal:run"),
     ("watchdog", 0, "09:30", "loop.watchdog:run"),
 ]
 MAX_TRIES = 3

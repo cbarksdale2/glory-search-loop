@@ -173,10 +173,13 @@ def run(post=True):
     collect = latest_collect()
     alerts, notes = analyse(collect, thr, config("site.json")["brand_queries"])
     stops, pre_notes = precheck.run_all()
-    steps = owner_steps(stops, pre_notes)
+    heal = read_json(spath("heal", f"{iso_week()}.json"), {})
+    steps = owner_steps(stops, pre_notes + heal.get("owner_actions", []))
+    notes += [f"Heal could not read {p}" for p in heal.get("not_read", [])]
     jobs = {j: sentinel_state(j, age) for j, age, _ in JOBS}
     ai = ai_referrals()
-    subject, body, red = build_report(collect, jobs, alerts, notes, steps, done_lines(), ai, post_lines(collect))
+    done = done_lines() + [r for r in heal.get("remedies", []) if not r.startswith("Put back")]
+    subject, body, red = build_report(collect, jobs, alerts, notes, steps, done, ai, post_lines(collect))
     rec = {"week": iso_week(), "subject": subject, "body": body, "red": red, "at": now().isoformat()}
     if post:
         issue = clients.gh("/issues", {"title": subject, "body": body, "labels": ["loop-report"]}, method="POST")

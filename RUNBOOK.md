@@ -25,6 +25,9 @@ Every job ends in `sentinels/<job>.json`; missing or stale = **NOT RUN** in the 
 ## Operate
 - **Run one job now**: Actions → tick → Run workflow → job = `collect` (or `gh workflow run tick.yml -f job=collect`).
 - **Pause everything that writes to the site**: repository variable `LOOP_PAUSED=true` (`gh variable set LOOP_PAUSED -b true`). Remove it to resume.
+- **Undo a site change**: Actions → rollback → ref = `last` or a ledger id (`python -m loop.rollback --list` shows them). Every publish, link refresh, SEO re-apply, merge and rewrite is in `loop-data/ledger.jsonl` with its undo.
+- **Weekly Claude pass**: a scheduled Claude routine (Mon 05:00 ET) follows `config/polish_prompt.md`: heartbeat check, polish this week's draft into `drafts/<slug>.polished.md`, one queued rewrite. If it does not run, Monday's publish skips the week (named stop POLISH_MISSING) and the report says so.
+- **Gate rules**: `loop/gate.py` with word lists in `config/brand.json` (banned claims, never-say, other brands, ingredient vocabulary) and scope/exclusions in `config/topics.json`.
 - **Tests**: `cd tests && python3 -m unittest discover`; safety: `python3 scripts/safety_check.py && python3 scripts/safety_check.py --self-test`; mutation proof: `python3 scripts/mutation_proof.py`.
 - **Land a change**: worktree → PR → `land <pr>` (merge gate = `ci.yml`, under 5 minutes). There is no deploy step: the next tick runs the merged code (`.land` says `DEPLOY=none`).
 

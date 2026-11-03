@@ -99,13 +99,16 @@ def openrouter_free_models():
     return out
 
 
-def openrouter_chat(model, messages, max_tokens=6000):
+def openrouter_chat(model, messages, max_tokens=12000):
     key = env("OPENROUTER_API_KEY_GLORY_BLOG", "Owner: create a new $0-limit key at openrouter.ai and save it as the Actions secret.")
     if not model.endswith(":free"):
         raise NamedStop("PAID_MODEL_REFUSED", f"{model} is not a free model; the loop never spends money", 1)
-    st, text = http("https://openrouter.ai/api/v1/chat/completions",
-                    {"model": model, "messages": messages, "max_tokens": max_tokens, "temperature": 0.4},
-                    {"Authorization": "Bearer " + key, "HTTP-Referer": SITE, "X-Title": "glory-search-loop"}, timeout=180, tries=1)
+    try:
+        st, text = http("https://openrouter.ai/api/v1/chat/completions",
+                        {"model": model, "messages": messages, "max_tokens": max_tokens, "temperature": 0.4},
+                        {"Authorization": "Bearer " + key, "HTTP-Referer": SITE, "X-Title": "glory-search-loop"}, timeout=180, tries=1)
+    except NamedStop as e:  # one busy model must not end the fallback chain
+        return None, str(e)
     if st != 200:
         return None, f"HTTP {st}: {text[:160]}"
     d = json.loads(text)
