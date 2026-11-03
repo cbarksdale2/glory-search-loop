@@ -1,0 +1,43 @@
+name: rollback
+# Undo one ledger change: "last" or a ledger id (see `python -m loop.rollback --list`).
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Ledger id to undo, or 'last'"
+        required: true
+        default: "last"
+concurrency:
+  group: tick
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: loop-data
+          path: state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Undo
+        env:
+          SHOPIFY_CLIENT_ID_GLORY: ${{ secrets.SHOPIFY_CLIENT_ID_GLORY }}
+          SHOPIFY_CLIENT_SECRET_GLORY: ${{ secrets.SHOPIFY_CLIENT_SECRET_GLORY }}
+          REF: ${{ inputs.ref }}
+        run: python -m loop.rollback "$REF"
+      - name: Save loop state
+        if: always()
+        run: |
+          cd state
+          git config user.name "glory-loop[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "state unchanged"; else git commit -qm "rollback $REF" && git push -q origin HEAD:loop-data; fi
+        env:
+          REF: ${{ inputs.ref }}

@@ -1,0 +1,38 @@
+{
+ "site": "https://glorybyus.com",
+ "blog_handle": "the-process",
+ "blog_id": "gid://shopify/Blog/77625557085",
+ "article_author": "Glory By Us",
+ "clarity_tag": "z7oaoopqk6",
+ "indexnow_key": "19f35fd687b04312f083a9a57f94c767",
+ "brand_queries": [
+  "glory by us",
+  "glorybyus",
+  "glory hair products"
+ ],
+ "crawl_pages": [
+  "/",
+  "/products/pomade-paste",
+  "/collections/the-routine",
+  "/pages/contact",
+  "/blogs/the-process"
+ ],
+ "nav_pages": [
+  "/",
+  "/products/pomade-paste",
+  "/collections/the-routine"
+ ],
+ "thresholds": {
+  "min_prior_impressions": 50,
+  "min_prior_clicks": 10,
+  "drop_ratio": 0.3,
+  "brand_position_change": 1.5,
+  "heartbeat_days": 8,
+  "weak_post_impressions": 10
+ },
+ "ai_referrers": [
+  "chatgpt.com",
+  "perplexity.ai",
+  "copilot.microsoft.com"
+ ]
+}

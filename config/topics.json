@@ -1,0 +1,158 @@
+{
+ "_note": "Owner's order (2026-11-02). Foundational posts are never unpublished by heal, only strengthened.",
+ "ordered": [
+  {
+   "n": 9,
+   "slug": "why-is-pomade-paste-good-for-beards",
+   "title": "Why is Pomade Paste good for beards?",
+   "products": [
+    "pomade-paste",
+    "brush-your-hair"
+   ],
+   "kind": "product"
+  },
+  {
+   "n": 7,
+   "slug": "one-pomade-five-styles",
+   "title": "One pomade, five styles: waves, curls, beards, slick-backs and buns",
+   "products": [
+    "pomade-paste"
+   ],
+   "kind": "product"
+  },
+  {
+   "n": 1,
+   "slug": "the-glory-routine",
+   "title": "The Glory routine: wash, condition, style, brush, protect",
+   "products": [
+    "rosemary-myrrh-shampoo-body-bar",
+    "hydrating-conditioner",
+    "pomade-paste",
+    "brush-your-hair",
+    "durag"
+   ],
+   "kind": "hub"
+  },
+  {
+   "n": 10,
+   "slug": "how-often-should-you-brush-your-waves",
+   "title": "How often should you brush your waves?",
+   "products": [
+    "brush-your-hair",
+    "durag"
+   ],
+   "kind": "routine"
+  },
+  {
+   "n": 5,
+   "slug": "why-is-brushing-your-hair-important",
+   "title": "Why is brushing your hair important?",
+   "products": [
+    "brush-your-hair"
+   ],
+   "kind": "routine"
+  },
+  {
+   "n": 6,
+   "slug": "why-wear-a-durag-to-sleep",
+   "title": "Why wear a durag to sleep?",
+   "products": [
+    "durag"
+   ],
+   "kind": "routine"
+  },
+  {
+   "n": 3,
+   "slug": "how-often-to-wash-textured-hair",
+   "title": "How often should you wash textured hair?",
+   "products": [
+    "rosemary-myrrh-shampoo-body-bar"
+   ],
+   "kind": "routine",
+   "required_source": "https://www.aad.org/"
+  },
+  {
+   "n": 4,
+   "slug": "how-often-to-condition-textured-hair",
+   "title": "How often should you condition textured hair?",
+   "products": [
+    "hydrating-conditioner"
+   ],
+   "kind": "routine"
+  },
+  {
+   "n": 8,
+   "slug": "wolfing-waves",
+   "title": "Wolfing waves: what it is and how to do it",
+   "products": [
+    "brush-your-hair",
+    "pomade-paste",
+    "durag"
+   ],
+   "kind": "routine"
+  }
+ ],
+ "scope_terms": [
+  "wave",
+  "waves",
+  "curl",
+  "curls",
+  "coil",
+  "coils",
+  "beard",
+  "beards",
+  "durag",
+  "durags",
+  "textured",
+  "brush",
+  "brushing",
+  "fade",
+  "fades",
+  "wolf",
+  "wolfing",
+  "slick-back",
+  "slick back",
+  "bun",
+  "buns",
+  "pomade",
+  "black hair",
+  "4c",
+  "kinky",
+  "afro",
+  "360",
+  "wash",
+  "condition"
+ ],
+ "excluded_terms": [
+  "hair loss",
+  "hairloss",
+  "thinning",
+  "transplant",
+  "alopecia",
+  "bald",
+  "balding",
+  "receding",
+  "regrow",
+  "regrowth",
+  "minoxidil",
+  "finasteride",
+  "dermatitis",
+  "eczema",
+  "psoriasis",
+  "custom durag",
+  "customized durag",
+  "personalized durag",
+  "relaxer",
+  "wig",
+  "lace front",
+  "custom",
+  "customized",
+  "customised",
+  "personalized",
+  "personalised",
+  "growth",
+  "grow",
+  "grows",
+  "growing"
+ ]
+}
