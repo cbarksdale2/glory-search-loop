@@ -1,0 +1,25 @@
+name: ci
+# Merge gate: behaviour tests, safety checks, mutation proof. Target under 5 minutes.
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile
+        run: python -m compileall -q loop scripts
+      - name: Behaviour tests
+        run: cd tests && python -m unittest discover -v
+      - name: Safety check (public repo, no secrets or private emails)
+        run: python scripts/safety_check.py && python scripts/safety_check.py --self-test
+      - name: Mutation proof (each hostile-review fix broken once)
+        run: python scripts/mutation_proof.py

@@ -1,0 +1,54 @@
+name: tick
+# One hourly cron; the code decides what is due on the America/New_York clock.
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Run one job now (collect, heartbeat, pick, draft, publish, heal, watchdog) or leave empty"
+        required: false
+        default: ""
+concurrency:
+  group: tick
+  cancel-in-progress: false
+permissions:
+  contents: write
+  issues: write
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out loop state (loop-data branch)
+        uses: actions/checkout@v4
+        with:
+          ref: loop-data
+          path: state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run what is due
+        env:
+          LOOP_PAUSED: ${{ vars.LOOP_PAUSED }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOPIFY_CLIENT_ID_GLORY: ${{ secrets.SHOPIFY_CLIENT_ID_GLORY }}
+          SHOPIFY_CLIENT_SECRET_GLORY: ${{ secrets.SHOPIFY_CLIENT_SECRET_GLORY }}
+          GSC_OAUTH_CLIENT_ID_GLORY: ${{ secrets.GSC_OAUTH_CLIENT_ID_GLORY }}
+          GSC_OAUTH_CLIENT_SECRET_GLORY: ${{ secrets.GSC_OAUTH_CLIENT_SECRET_GLORY }}
+          GSC_REFRESH_TOKEN_GLORY: ${{ secrets.GSC_REFRESH_TOKEN_GLORY }}
+          OPENROUTER_API_KEY_GLORY_BLOG: ${{ secrets.OPENROUTER_API_KEY_GLORY_BLOG }}
+          CLARITY_EXPORT_TOKEN_GLORY: ${{ secrets.CLARITY_EXPORT_TOKEN_GLORY }}
+          BING_WEBMASTER_API_KEY_GLORY: ${{ secrets.BING_WEBMASTER_API_KEY_GLORY }}
+          JOB: ${{ inputs.job }}
+        run: |
+          if [ -n "$JOB" ]; then python -m loop.tick --job "$JOB"; else python -m loop.tick; fi
+      - name: Save loop state
+        if: always()
+        run: |
+          cd state
+          git config user.name "glory-loop[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "state unchanged"; else git commit -qm "loop state $(TZ=America/New_York date '+%Y-%m-%d %H:%M')" && git push -q origin HEAD:loop-data && echo "state saved"; fi

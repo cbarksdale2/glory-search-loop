@@ -1,0 +1,29 @@
+{
+ "_note": "Owner-approved SEO values (2026-11-02). heal re-applies the API-writable ones when live differs; the homepage title and description live in Online Store > Preferences, which the Admin API cannot write, so drift there becomes a named owner step. Collection renamed 'The Routine' (/collections/the-routine) by the coordinator 2026-11-02 ~23:30 ET; description unchanged.",
+ "homepage": {
+  "path": "/",
+  "title": "Haircare for the Culture | Curls, Waves & Beards",
+  "description": "Glory By Us is healthy hair care for curls, waves and beards: pomade paste, peppermint conditioner, brush and durag. Indulge in the Process. Our Hair Matters.",
+  "writable": false
+ },
+ "descriptions": [
+  {
+   "path": "/collections/the-routine",
+   "kind": "collection",
+   "id": "gid://shopify/Collection/280086380637",
+   "description": "Wash, condition, style, brush, protect. Everything your curls, waves and beard need, made with healthy ingredients."
+  },
+  {
+   "path": "/pages/contact",
+   "kind": "page",
+   "id": "gid://shopify/Page/80600301661",
+   "description": "Questions about an order or a partnership? Email the Glory By Us team at team@glorybyus.com."
+  },
+  {
+   "path": "/blogs/the-process",
+   "kind": "blog",
+   "id": "gid://shopify/Blog/77625557085",
+   "description": "Hair care routines from the Glory Family. How often to brush, wash and condition, why your durag matters, and how to make the process yours."
+  }
+ ]
+}
