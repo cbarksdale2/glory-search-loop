@@ -1,0 +1,193 @@
+{
+ "brand": [
+  "Glory By Us is a hair brand built around culture and community, with a focus on healthy ingredients.",
+  "Glory By Us describes itself as healthy hair care for curls, waves and beards.",
+  "Glory Pomade Paste works for waves, curls, beards, slick-backs and buns.",
+  "The Glory durag is Glory's own branded durag, made and sold by Glory. It is not customisable.",
+  "Glory's taglines are 'Indulge in the Process.' and 'Our Hair Matters'.",
+  "The Glory Family is what Glory calls its community."
+ ],
+ "built_at": "2026-11-02T23:32:30.647037-05:00",
+ "products": [
+  {
+   "handle": "pomade-paste",
+   "ingredients": [
+    "Water",
+    "Aloe Vera Gel",
+    "Shea Butter",
+    "Beeswax",
+    "Emulsifying Wax",
+    "Soy Wax",
+    "Grape Seed Oil",
+    "Avocado Oil",
+    "Vegetable Glycerin",
+    "Stearic Acid",
+    "Vitamin E",
+    "Lemongrass Essential Oil",
+    "Geranium Oil"
+   ],
+   "name": "Pomade Paste",
+   "page_lines": [
+    "Hold Different Forget the greasy pomades that weigh you down.",
+    "This is a whipped, spongy paste that melts on contact and moves with you — through the beard, through the curl pattern, through the wave check.",
+    "Built with raw botanicals, it locks your style down with commanding hold while it works the scalp underneath, because looking clean is a lifestyle, not a look.",
+    "The Feel: Light, whipped, spongy — melts into an invisible hold with a clean, natural finish.",
+    "No grease, no cake, no cap.",
+    "The Routine: Warm a dime-sized amount between your palms to wake up the botanicals.",
+    "Run it through your beard, curls, or waves — fresh cut or deep wave phase, whatever stage you're in — and lock it in.",
+    "The Botanical Work Avocado Oil — fatty acids, potassium, magnesium.",
+    "Penetrates deep, builds texture, leaves a natural shine that reads clean under any light.",
+    "Scalp health is the foundation everything else stands on.",
+    "Shea Butter & Aloe Vera Base — moisture without the weight.",
+    "No clogged pores, no flakes, just slip.",
+    "Why It Wins All-day hold, zero weight Lays every stray hair down on command Feeds the scalp while it styles Works instantly, washes out clean Built for beards, curls, and waves — fresh cuts to deep wolfing phases Clean ingredients, no shortcuts"
+   ],
+   "price_usd": "30.0",
+   "url": "https://glorybyus.com/products/pomade-paste"
+  },
+  {
+   "handle": "hydrating-conditioner",
+   "ingredients": [
+    "Artichoke Extract",
+    "Moringa Oil",
+    "Peppermint",
+    "Aloe Vera",
+    "Water",
+    "Castor Oil",
+    "Emulsifying Wax",
+    "Stearic Acid",
+    "Shea Butter",
+    "Optiphen",
+    "Peppermint Essential Oil"
+   ],
+   "name": "Hydrating Peppermint Conditioner",
+   "page_lines": [
+    "Indulge in the spark.",
+    "This ultra-rich, decadent conditioner is engineered with a thick, commanding consistency that grips every strand and clings beautifully to hair and beard.",
+    "It provides an effortless, silky slip that detangles and deeply hydrates, leaving your pattern perfectly defined and your stride completely softened.",
+    "The Sensation: A dense, velvety cream that delivers an immediate, cooling electricity to the scalp.",
+    "The Ritual: After cleansing, smooth a generous amount through damp hair, beard, and scalp.",
+    "Massage mindfully to activate the cooling spark.",
+    "Let the botanical alchemy absorb for a few minutes, then rinse to reveal unparalleled strength and luster.",
+    "The Botanical Alchemy Peppermint & Menthol: The cooling tingle you feel the moment it hits your scalp.",
+    "It wakes the scalp up and leaves it feeling fresh.",
+    "Artichoke Leaf Extract: Rich in potent antioxidants to actively shield the hair, scalp, and skin from environmental stress, preserving youthfulness and longevity."
+   ],
+   "price_usd": "30.0",
+   "url": "https://glorybyus.com/products/hydrating-conditioner"
+  },
+  {
+   "handle": "brush-your-hair",
+   "ingredients": [],
+   "name": "Brush (Your Hair)",
+   "page_lines": [
+    "Indulge in the process.",
+    "This isn’t just a tool; it is the definitive rhythm of your routine.",
+    "Sculpted with a sleek, curved surface that mirrors the natural contours of your head and face, this brush epitomizes Glory’s ethos: it’s more than a product—it’s a discipline.",
+    "The Sensation: A firm yet forgiving stroke that grips the hair without pulling, delivering a soothing, therapeutic massage to the scalp.",
+    "The Ritual: For waves, use long, deliberate strokes from the crown outward to lock in your pattern.",
+    "For fresh cuts, let the soft-medium bristles glide gently to enhance definition.",
+    "For wolfing or beard grooming, use steady pressure to lay every single strand without lifting.",
+    "The Architecture of the Process 100% Pure Boar Bristles: Cultivated to naturally mimic your hair’s texture, distributing your scalp’s natural oils evenly from root to tip for an undeniable, high-end luster.",
+    "The Soft/Medium Calibration: The perfect structural sweet spot.",
+    "Gentle enough to respect a fresh, sharp fade, yet resilient enough to lay down bulk hair during a deep wolfing phase.",
+    "Contoured Curved Geometry: Engineered to maximize contact with every stroke, covering more surface area of the scalp, waves, and jawline with absolute precision."
+   ],
+   "price_usd": "30.0",
+   "url": "https://glorybyus.com/products/brush-your-hair"
+  },
+  {
+   "handle": "durag",
+   "ingredients": [],
+   "name": "Glory Double-sided Checkered Durag",
+   "page_lines": [
+    "Indulge in the preservation.",
+    "The definitive final step of your ritual.",
+    "The Glory Signature Durag is crafted with an uncompromising dedication to form, function, and luxury.",
+    "Designed to seamlessly lock in moisture and protect your waves, curls, and scalp, this is more than an accessory—it is the guardian of your process.",
+    "Engineered with a double-sided print, it offers a reversible, versatile aesthetic, allowing you to shift your style while maintaining a flawless compress that lets you soften your stride with absolute confidence.",
+    "The Sensation: A weightless, silk-like glide against the skin and hair, offering the perfect balance of breathability and compression.",
+    "The Ritual: After applying your Glory Pomade Paste or Hydrating Conditioner, lay your pattern with your Sculpting Brush.",
+    "Secure the durag smoothly over your crown, tying the wide, flat bands without tension to lock in the moisture and protect your waves through the night or throughout the day.",
+    "The Architecture of Preservation Intricate Double-Sided Aesthetic: Featuring premium, high-definition double-sided printing, this durag offers two distinct, elevated looks in one.",
+    "Seamlessly transition your style to match your mood, without ever sacrificing protection.",
+    "This durag is built to withstand the rigors of daily wear and wash cycles without fraying.",
+    "Optimal Compression & Slip: Calibrated with wide, long straps that distribute pressure evenly across the forehead and temples.",
+    "It delivers the perfect tension needed to lay down your hair during deep wolfing phases, while protecting the scalp from friction.",
+    "Product Highlights Dual-Sided Artistry for Versatile Styling Reinforced Outer Seams for Zero Forehead Lines Locks in Essential Moisture & Botanical Alchemy Wide, Tension-Free Comfort Bands Engineered for Maximum Wave & Pattern Preservation Durable, High-End Fabric with a Silk-Like Glide"
+   ],
+   "price_usd": "30.0",
+   "url": "https://glorybyus.com/products/durag"
+  },
+  {
+   "handle": "rosemary-myrrh-shampoo-body-bar",
+   "ingredients": [
+    "Water",
+    "Olive Oil Pomace",
+    "Coconut Oil",
+    "Shea Butter",
+    "Castor Oil",
+    "Sweet Almond Oil",
+    "Sodium Hydroxide",
+    "Rosemary Essential Oil",
+    "Myrrh Extract",
+    "Sodium Lactate"
+   ],
+   "name": "Rosemary Myrrh Shampoo & Body Bar",
+   "page_lines": [
+    "Indulge in the surge.",
+    "Formulated with potent botanical extracts, this dual-action bar invites you to massage it directly against your scalp, hair, and skin.",
+    "It melts upon contact into a dense, velvety lather that provides maximum slip—perfect for brushing through waves, defining curls, and clarifying skin.",
+    "Fueled by invigorating rosemary and sacred myrrh, it purifies without stripping, leaving your scalp stimulated, your pattern locked, and your stride softened.",
+    "The Sensation: A crisp, herbaceous rush with an earthy, grounding undertone that revitalizes on contact.",
+    "The Ritual: Massage the bar directly onto a damp scalp, hair, and body to build a thick, luxurious cushion.",
+    "For waves and curls, brush or work the dense lather through your pattern from the root.",
+    "Glide across the skin to cleanse and balance, then rinse thoroughly."
+   ],
+   "price_usd": "18.0",
+   "url": "https://glorybyus.com/products/rosemary-myrrh-shampoo-body-bar"
+  },
+  {
+   "handle": "glory-set",
+   "ingredients": [],
+   "name": "Big 3 Hydration Set",
+   "page_lines": [
+    "Indulge in the complete system.",
+    "The definitive trilogy for waves, curls, and absolute scalp wellness.",
+    "The Big 3 Hydration Set is a curated, high-performance ritual designed to seamlessly work in harmony.",
+    "The Sensation: A progression of luxury—moving from a rich, dense lather, to an electrifying cooling spark, and finishing with a velvety, invisible hold.",
+    "Fortify (Hydrating Conditioner): Massage the thick, velvety cream into your hair and scalp, releasing the instant, cooling peppermint spark.",
+    "Rinse.",
+    "Sculpt (Pomade Paste): Warm a small amount between your palms to activate the botanical wax, smoothing it through to lay down stray hairs and lock in your pattern.",
+    "The Synergy of the Big 3 Step 1: The Reset (Shampoo & Body Bar): An artisanal dual-action bar that cleanses both hair and skin without stripping natural oils.",
+    "It awakens the scalp at the root and preps waves and curls for deep hydration.",
+    "Moringa Oil and Aloe Vera drench strands in moisture while peppermint brings a cooling tingle to the scalp.",
+    "Step 3: The Seal (Pomade Paste): A soft, spongy masterpiece that melts upon contact to lock in your hard work.",
+    "Infused with Avocado Oil and Vitamin E, it provides a commanding, all-day hold and a natural luster without a trace of grease."
+   ],
+   "price_usd": "75.0",
+   "url": "https://glorybyus.com/products/glory-set"
+  },
+  {
+   "handle": "scalp-health-varsity-set",
+   "ingredients": [],
+   "name": "Scalp Health Varsity Set",
+   "page_lines": [
+    "Indulge in the discipline.",
+    "The definitive lineup for elite scalp health, wave cultivation, and beard mastery.",
+    "The Scalp Health Varsity Set is an advanced, high-performance system curated for those who take their process seriously.",
+    "The Sensation: A rigorous, therapeutic massage followed by an instant, cooling surge of electricity, sealing into a velvety, invisible hold.",
+    "The Ritual: Activate (Hydrating Conditioner): During your shower, massage the dense, luxurious cream into your scalp and hair to unleash the instant, cooling peppermint spark.",
+    "Rinse.",
+    "Lock (Pomade Paste): Finish by warming the spongy paste between your fingertips, smoothing it evenly to lay down stray hairs and secure your pattern for the day.",
+    "The Architecture of the Varsity Set The Stimulator: Boar Bristle Sculpting Brush - The physical instrument of the process.",
+    "The Finisher: Pomade Paste - The clean alternative to greasy grease.",
+    "This whipped, spongy blend melts upon contact to deliver a commanding, all-day hold.",
+    "Packed with Avocado Oil and Vitamin E, it seals in the conditioner's moisture while adding a high-luster, natural finish."
+   ],
+   "price_usd": "90.0",
+   "url": "https://glorybyus.com/products/scalp-health-varsity-set"
+  }
+ ],
+ "source": "live Shopify product pages + config/brand.json"
+}

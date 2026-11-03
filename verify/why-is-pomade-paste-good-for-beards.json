@@ -1,0 +1,33 @@
+{
+ "at": "2026-11-02T23:35:39.246521-05:00",
+ "facts": {
+  "blog_links": [
+   "/blogs/the-process",
+   "/blogs/the-process.atom",
+   "https://glorybyus.com/blogs/the-process/why-is-pomade-paste-good-for-beards"
+  ],
+  "canonical": "https://glorybyus.com/blogs/the-process/why-is-pomade-paste-good-for-beards",
+  "clarity_tag": true,
+  "final_url": "https://glorybyus.com/blogs/the-process/why-is-pomade-paste-good-for-beards",
+  "in_sitemap": false,
+  "meta_description": "Glory Pomade Paste gives a beard a light, all-day hold and a clean, natural finish with no grease. How to use it, how much, and how to brush it in.",
+  "path": "/blogs/the-process/why-is-pomade-paste-good-for-beards",
+  "schema_types": [
+   "Answer",
+   "Article",
+   "BreadcrumbList",
+   "FAQPage",
+   "ListItem",
+   "Organization",
+   "Person",
+   "Question",
+   "SpeakableSpecification",
+   "WebPage"
+  ],
+  "status": 200,
+  "title": "Why is Pomade Paste good for beards? – Glory By Us"
+ },
+ "problems": [
+  "not in sitemap yet"
+ ]
+}

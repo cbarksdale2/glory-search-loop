@@ -1,0 +1,2316 @@
+{
+ "articles": [],
+ "collected_at": "2026-11-02T22:56:07.168411-05:00",
+ "crawl": {
+  "/": {
+   "blog_links": [],
+   "canonical": "https://glorybyus.com/",
+   "clarity_tag": true,
+   "final_url": "https://glorybyus.com/",
+   "meta_description": "Glory By Us is healthy hair care for curls, waves and beards: pomade paste, peppermint conditioner, brush and durag. Indulge in the Process. Our Hair Matters.",
+   "path": "/",
+   "schema_types": [
+    "Organization",
+    "SearchAction",
+    "WebSite"
+   ],
+   "status": 200,
+   "title": "Haircare for the Culture | Curls, Waves & Beards – Glory By Us"
+  },
+  "/blogs/the-process": {
+   "blog_links": [
+    "/blogs/the-process.atom",
+    "https://glorybyus.com/blogs/the-process"
+   ],
+   "canonical": "https://glorybyus.com/blogs/the-process",
+   "clarity_tag": true,
+   "final_url": "https://glorybyus.com/blogs/the-process",
+   "meta_description": "Hair care routines from the Glory Family. How often to brush, wash and condition, why your durag matters, and how to make the process yours.",
+   "path": "/blogs/the-process",
+   "schema_types": [
+    "Organization"
+   ],
+   "status": 200,
+   "title": "The Process – Glory By Us"
+  },
+  "/collections/the-routine": {
+   "blog_links": [],
+   "canonical": "https://glorybyus.com/collections/the-routine",
+   "clarity_tag": true,
+   "final_url": "https://glorybyus.com/collections/the-routine",
+   "meta_description": "Wash, condition, style, brush, protect. Everything your curls, waves and beard need, made with healthy ingredients.",
+   "path": "/collections/the-routine",
+   "schema_types": [
+    "Organization"
+   ],
+   "status": 200,
+   "title": "The Routine – Glory By Us"
+  },
+  "/pages/contact": {
+   "blog_links": [],
+   "canonical": "https://glorybyus.com/pages/contact",
+   "clarity_tag": true,
+   "final_url": "https://glorybyus.com/pages/contact",
+   "meta_description": "Questions about an order or a partnership? Email the Glory By Us team at team@glorybyus.com.",
+   "path": "/pages/contact",
+   "schema_types": [
+    "Organization"
+   ],
+   "status": 200,
+   "title": "Contact – Glory By Us"
+  },
+  "/products/pomade-paste": {
+   "blog_links": [],
+   "canonical": "https://glorybyus.com/products/pomade-paste",
+   "clarity_tag": true,
+   "final_url": "https://glorybyus.com/products/pomade-paste",
+   "meta_description": "Hold Different Forget the greasy pomades that weigh you down. This is a whipped, spongy paste that melts on contact and moves with you — through the beard, through the curl pattern, through the wave check. Built with raw botanicals, it locks your style down with commanding hold while it works the scalp underneath, beca",
+   "path": "/products/pomade-paste",
+   "schema_types": [
+    "Brand",
+    "Offer",
+    "Organization",
+    "Product"
+   ],
+   "status": 200,
+   "title": "Pomade Paste – Glory By Us"
+  }
+ },
+ "gsc": {
+  "current": {
+   "pages": [
+    {
+     "clicks": 48,
+     "ctr": 0.09022556390977443,
+     "impressions": 532,
+     "keys": [
+      "https://glorybyus.com/"
+     ],
+     "position": 8.396616541353383
+    },
+    {
+     "clicks": 23,
+     "ctr": 0.14285714285714285,
+     "impressions": 161,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste"
+     ],
+     "position": 2.4906832298136647
+    },
+    {
+     "clicks": 7,
+     "ctr": 0.04487179487179487,
+     "impressions": 156,
+     "keys": [
+      "https://glorybyus.com/products/durag"
+     ],
+     "position": 11.333333333333334
+    },
+    {
+     "clicks": 3,
+     "ctr": 0.11538461538461539,
+     "impressions": 26,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack?variant=42934763421789&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 4.076923076923077
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.030303030303030304,
+     "impressions": 33,
+     "keys": [
+      "https://glorybyus.com/collections/glory-days-merch"
+     ],
+     "position": 23.696969696969695
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.008547008547008548,
+     "impressions": 117,
+     "keys": [
+      "https://glorybyus.com/pages/about-us"
+     ],
+     "position": 3.7094017094017095
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.027777777777777776,
+     "impressions": 36,
+     "keys": [
+      "https://glorybyus.com/pages/founder-q-a-with-carlos-barksdale"
+     ],
+     "position": 7.083333333333333
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.008928571428571428,
+     "impressions": 112,
+     "keys": [
+      "https://glorybyus.com/products/glory-set"
+     ],
+     "position": 7.892857142857143
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.017241379310344827,
+     "impressions": 58,
+     "keys": [
+      "https://glorybyus.com/products/glory-tote"
+     ],
+     "position": 6.568965517241379
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 17,
+     "keys": [
+      "https://glorybyus.com/cart"
+     ],
+     "position": 7.294117647058823
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 76,
+     "keys": [
+      "https://glorybyus.com/collections/all"
+     ],
+     "position": 2.447368421052632
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 38,
+     "keys": [
+      "https://glorybyus.com/collections/apparel-accessories"
+     ],
+     "position": 6.7631578947368425
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 58,
+     "keys": [
+      "https://glorybyus.com/collections/frontpage"
+     ],
+     "position": 3.086206896551724
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 77,
+     "keys": [
+      "https://glorybyus.com/pages/contact"
+     ],
+     "position": 4.571428571428571
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 140,
+     "keys": [
+      "https://glorybyus.com/policies/contact-information"
+     ],
+     "position": 16.40714285714286
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 11,
+     "keys": [
+      "https://glorybyus.com/policies/privacy-policy"
+     ],
+     "position": 10.818181818181818
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 17,
+     "keys": [
+      "https://glorybyus.com/policies/refund-policy"
+     ],
+     "position": 9.588235294117647
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 5,
+     "keys": [
+      "https://glorybyus.com/policies/shipping-policy"
+     ],
+     "position": 14.6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 14,
+     "keys": [
+      "https://glorybyus.com/policies/terms-of-service"
+     ],
+     "position": 12.285714285714286
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 74,
+     "keys": [
+      "https://glorybyus.com/products/brush-your-hair"
+     ],
+     "position": 5.945945945945946
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/brush-your-hair?variant=40919021912157&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "https://glorybyus.com/products/cucumber-moisturizer"
+     ],
+     "position": 24.333333333333332
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 23,
+     "keys": [
+      "https://glorybyus.com/products/durag?variant=41096411250781&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 3.739130434782609
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 59,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack"
+     ],
+     "position": 7.5423728813559325
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack?variant=42934763421789&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 3
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "https://glorybyus.com/products/glory-set?variant=40919326195805&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 152,
+     "keys": [
+      "https://glorybyus.com/products/hydrating-conditioner"
+     ],
+     "position": 23.980263157894736
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/hydrating-conditioner?variant=40918468460637&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/i-need-a-soldier-tee?variant=45082048561245&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/i-need-a-soldier-tee?variant=45082048594013&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 43,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste?variant=40916885667933&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 5.953488372093023
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 21,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste?variant=40916885667933&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 19,
+     "keys": [
+      "https://glorybyus.com/products/scalp-health-varsity-set"
+     ],
+     "position": 8.894736842105264
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "https://glorybyus.com/products/scalp-health-varsity-set?variant=42934754017373&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 13,
+     "keys": [
+      "https://glorybyus.com/products/soldier-tee"
+     ],
+     "position": 5.923076923076923
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 28,
+     "keys": [
+      "https://glorybyus.com/products/sweet-potato-shampoo-body-bar-copy-1"
+     ],
+     "position": 8.964285714285715
+    }
+   ],
+   "queries": [
+    {
+     "clicks": 31,
+     "ctr": 0.7948717948717948,
+     "impressions": 39,
+     "keys": [
+      "glory by us"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 7,
+     "ctr": 0.3684210526315789,
+     "impressions": 19,
+     "keys": [
+      "glorybyus"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 3,
+     "ctr": 0.375,
+     "impressions": 8,
+     "keys": [
+      "glory pomade"
+     ],
+     "position": 1.375
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.043478260869565216,
+     "impressions": 46,
+     "keys": [
+      "glory hair products"
+     ],
+     "position": 6.086956521739131
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.05,
+     "impressions": 20,
+     "keys": [
+      "carlos barksdale"
+     ],
+     "position": 4.6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "cucumber moisturizer"
+     ],
+     "position": 31.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 13,
+     "keys": [
+      "custom durag"
+     ],
+     "position": 21.384615384615383
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "custom durags"
+     ],
+     "position": 40.42857142857143
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "double durag"
+     ],
+     "position": 10
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "dual rag"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durag custom"
+     ],
+     "position": 13
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 9,
+     "keys": [
+      "durag designs"
+     ],
+     "position": 28
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durag with designs"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durago"
+     ],
+     "position": 4
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "give me 3 products"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 5,
+     "keys": [
+      "glitter durag"
+     ],
+     "position": 10.8
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gloria usa"
+     ],
+     "position": 59
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glories"
+     ],
+     "position": 36
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory 60"
+     ],
+     "position": 30
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory bag"
+     ],
+     "position": 7.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory bags"
+     ],
+     "position": 2
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory brand"
+     ],
+     "position": 42.666666666666664
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 12,
+     "keys": [
+      "glory by"
+     ],
+     "position": 6.916666666666667
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory cloud usa"
+     ],
+     "position": 16
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 13,
+     "keys": [
+      "glory conditioner"
+     ],
+     "position": 7.384615384615385
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory cosmetics"
+     ],
+     "position": 47
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory day apparel"
+     ],
+     "position": 26
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory days fine goods"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory days shop"
+     ],
+     "position": 77
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory days store"
+     ],
+     "position": 40.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory essentials"
+     ],
+     "position": 18
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 11,
+     "keys": [
+      "glory hair"
+     ],
+     "position": 26.181818181818183
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory hair conditioner"
+     ],
+     "position": 28.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory kit"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory lab"
+     ],
+     "position": 59
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory pack"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory plus"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 6,
+     "keys": [
+      "glory products"
+     ],
+     "position": 13.333333333333334
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory professional"
+     ],
+     "position": 41.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory set"
+     ],
+     "position": 16
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory shampoo"
+     ],
+     "position": 11.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory shampoo and conditioner"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory shirt"
+     ],
+     "position": 6.75
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory shop"
+     ],
+     "position": 2
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 173,
+     "keys": [
+      "glory us"
+     ],
+     "position": 9.670520231213873
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory vendor"
+     ],
+     "position": 20.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory waves"
+     ],
+     "position": 23.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory wax"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory weave"
+     ],
+     "position": 27
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory website"
+     ],
+     "position": 24
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory's beauty"
+     ],
+     "position": 17
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "gloryb"
+     ],
+     "position": 57
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "gloryboom"
+     ],
+     "position": 21
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 6,
+     "keys": [
+      "glorys"
+     ],
+     "position": 24.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glorystyle"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "gloryus"
+     ],
+     "position": 12.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gucci durag real"
+     ],
+     "position": 31
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "hair glory"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "hyper brush"
+     ],
+     "position": 22
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "jamaican durag"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "mexican durag"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "patrick with durag"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "peppermint conditioner"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "peppermint deep conditioner"
+     ],
+     "position": 41
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "pomade"
+     ],
+     "position": 18.125
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "pomade formulation"
+     ],
+     "position": 21.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 23,
+     "keys": [
+      "pomade paste"
+     ],
+     "position": 1.2173913043478262
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "rhinestone durag"
+     ],
+     "position": 21.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "site:instagram.com/reel \"conditioner\" after:2026-10-07 before:2026-10-08"
+     ],
+     "position": 29
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "site:instagram.com/reel \"conditioner\" after:2026-10-08 before:2026-10-09"
+     ],
+     "position": 37.375
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 18,
+     "keys": [
+      "site:reddit.com/r \"conditioner\" after:2026-10-07 before:2026-10-08"
+     ],
+     "position": 29.88888888888889
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 22,
+     "keys": [
+      "site:reddit.com/r \"conditioner\" after:2026-10-08 before:2026-10-09"
+     ],
+     "position": 38.13636363636363
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 12,
+     "keys": [
+      "site:youtube.com/shorts \"conditioner\" after:2026-10-07 before:2026-10-08"
+     ],
+     "position": 29.166666666666668
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 13,
+     "keys": [
+      "site:youtube.com/shorts \"conditioner\" after:2026-10-08 before:2026-10-09"
+     ],
+     "position": 36
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 9,
+     "keys": [
+      "site:youtube.com/watch \"conditioner\" after:2026-10-07 before:2026-10-08"
+     ],
+     "position": 31
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "site:youtube.com/watch \"conditioner\" after:2026-10-08 before:2026-10-09"
+     ],
+     "position": 36.714285714285715
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "sparkle durag"
+     ],
+     "position": 12.285714285714286
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "sparkly durag"
+     ],
+     "position": 13.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "the glory bag"
+     ],
+     "position": 10.333333333333334
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "two tone durag"
+     ],
+     "position": 12
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "what hat is this"
+     ],
+     "position": 11
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "на упаковке"
+     ],
+     "position": 1
+    }
+   ],
+   "totals": {
+    "clicks": 85,
+    "ctr": 0.06493506493506493,
+    "impressions": 1309,
+    "position": 10.46829640947288
+   }
+  },
+  "prior": {
+   "pages": [
+    {
+     "clicks": 75,
+     "ctr": 0.1450676982591876,
+     "impressions": 517,
+     "keys": [
+      "https://glorybyus.com/"
+     ],
+     "position": 9.35009671179884
+    },
+    {
+     "clicks": 17,
+     "ctr": 0.09770114942528736,
+     "impressions": 174,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste"
+     ],
+     "position": 3.2988505747126435
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.028985507246376812,
+     "impressions": 69,
+     "keys": [
+      "https://glorybyus.com/collections/frontpage"
+     ],
+     "position": 7.072463768115942
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.07407407407407407,
+     "impressions": 27,
+     "keys": [
+      "https://glorybyus.com/pages/founder-q-a-with-carlos-barksdale"
+     ],
+     "position": 5.296296296296297
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.012121212121212121,
+     "impressions": 165,
+     "keys": [
+      "https://glorybyus.com/products/durag"
+     ],
+     "position": 12.527272727272727
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.03636363636363636,
+     "impressions": 55,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack"
+     ],
+     "position": 6.890909090909091
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.008620689655172414,
+     "impressions": 116,
+     "keys": [
+      "https://glorybyus.com/collections/all"
+     ],
+     "position": 4.017241379310345
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.007518796992481203,
+     "impressions": 133,
+     "keys": [
+      "https://glorybyus.com/pages/about-us"
+     ],
+     "position": 2.556390977443609
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.022222222222222223,
+     "impressions": 45,
+     "keys": [
+      "https://glorybyus.com/products/brush-your-hair"
+     ],
+     "position": 4.644444444444444
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.1,
+     "impressions": 10,
+     "keys": [
+      "https://glorybyus.com/products/cucumber-moisturizer"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.024390243902439025,
+     "impressions": 41,
+     "keys": [
+      "https://glorybyus.com/products/durag?variant=41096411250781&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 3.8048780487804876
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.0078125,
+     "impressions": 128,
+     "keys": [
+      "https://glorybyus.com/products/glory-set"
+     ],
+     "position": 2.6640625
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.2,
+     "impressions": 5,
+     "keys": [
+      "https://glorybyus.com/products/glory-tote"
+     ],
+     "position": 3.4
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.025,
+     "impressions": 40,
+     "keys": [
+      "https://glorybyus.com/products/hydrating-conditioner"
+     ],
+     "position": 10.25
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.047619047619047616,
+     "impressions": 21,
+     "keys": [
+      "https://glorybyus.com/products/scalp-health-varsity-set?variant=42934754017373&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 4.9523809523809526
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.05555555555555555,
+     "impressions": 18,
+     "keys": [
+      "https://glorybyus.com/products/sweet-potato-shampoo-body-bar-copy-1"
+     ],
+     "position": 7.444444444444445
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 16,
+     "keys": [
+      "https://glorybyus.com/cart"
+     ],
+     "position": 12.875
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 44,
+     "keys": [
+      "https://glorybyus.com/collections/apparel-accessories"
+     ],
+     "position": 4.431818181818182
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 9,
+     "keys": [
+      "https://glorybyus.com/collections/glory-days-merch"
+     ],
+     "position": 28.444444444444443
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 110,
+     "keys": [
+      "https://glorybyus.com/pages/contact"
+     ],
+     "position": 4.881818181818182
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 25,
+     "keys": [
+      "https://glorybyus.com/policies/contact-information"
+     ],
+     "position": 5.4
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "https://glorybyus.com/policies/privacy-policy"
+     ],
+     "position": 8.75
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "https://glorybyus.com/policies/refund-policy"
+     ],
+     "position": 7.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/policies/shipping-policy"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "https://glorybyus.com/policies/terms-of-service"
+     ],
+     "position": 5.875
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "https://glorybyus.com/products/brush-your-hair?variant=40919021912157&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 3.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/brush-your-hair?variant=40919021912157&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 5,
+     "keys": [
+      "https://glorybyus.com/products/glory-garment-dye-t-shirt"
+     ],
+     "position": 7.8
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 6,
+     "keys": [
+      "https://glorybyus.com/products/glory-garment-dye-t-shirt?variant=39535024406621&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 6.666666666666667
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/glory-garment-dye-t-shirt?variant=39535024406621&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/glory-garment-dye-t-shirt?variant=42816728498269&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 31,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack?variant=42934763421789&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 6.580645161290323
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/glory-power-pack?variant=42934763421789&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 11,
+     "keys": [
+      "https://glorybyus.com/products/glory-set?variant=40919326195805&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1.1818181818181819
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/glory-set?variant=40919326195805&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 10,
+     "keys": [
+      "https://glorybyus.com/products/hydrating-conditioner?variant=40918468460637&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 6.7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "https://glorybyus.com/products/i-need-a-soldier-tee?variant=45082048561245&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 2
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 182,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste?variant=40916885667933&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1.5329670329670328
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 167,
+     "keys": [
+      "https://glorybyus.com/products/pomade-paste?variant=40916885667933&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 24,
+     "keys": [
+      "https://glorybyus.com/products/scalp-health-varsity-set"
+     ],
+     "position": 9.208333333333334
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 8,
+     "keys": [
+      "https://glorybyus.com/products/scalp-health-varsity-set?variant=42934754017373&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c"
+     ],
+     "position": 1.25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "https://glorybyus.com/products/sweet-potato-shampoo-body-bar-copy-1?variant=44856083447901&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"
+     ],
+     "position": 1
+    }
+   ],
+   "queries": [
+    {
+     "clicks": 38,
+     "ctr": 0.6551724137931034,
+     "impressions": 58,
+     "keys": [
+      "glory by us"
+     ],
+     "position": 1.0172413793103448
+    },
+    {
+     "clicks": 5,
+     "ctr": 0.5555555555555556,
+     "impressions": 9,
+     "keys": [
+      "glorybyus"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 4,
+     "ctr": 0.0975609756097561,
+     "impressions": 41,
+     "keys": [
+      "glory hair products"
+     ],
+     "position": 5.463414634146342
+    },
+    {
+     "clicks": 2,
+     "ctr": 0.13333333333333333,
+     "impressions": 15,
+     "keys": [
+      "carlos barksdale"
+     ],
+     "position": 5.733333333333333
+    },
+    {
+     "clicks": 1,
+     "ctr": 0.5,
+     "impressions": 2,
+     "keys": [
+      "the glory bag"
+     ],
+     "position": 2.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "cucumber moisturizer"
+     ],
+     "position": 33
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 12,
+     "keys": [
+      "custom durag"
+     ],
+     "position": 33.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 6,
+     "keys": [
+      "custom durags"
+     ],
+     "position": 41.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "double durag"
+     ],
+     "position": 3.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "double lined durag"
+     ],
+     "position": 12
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "dulog.dg"
+     ],
+     "position": 10
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "durag"
+     ],
+     "position": 4.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durag brands"
+     ],
+     "position": 2
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durag buy"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "durag custom"
+     ],
+     "position": 12.666666666666666
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "durag designs"
+     ],
+     "position": 26.285714285714285
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "durag with designs"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 9,
+     "keys": [
+      "emperors rejuvenator pomade"
+     ],
+     "position": 8.222222222222221
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "give me 3 products"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glitter durag"
+     ],
+     "position": 14
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glorary"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glori blends"
+     ],
+     "position": 44.666666666666664
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gloridea"
+     ],
+     "position": 31
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glorie brush"
+     ],
+     "position": 4
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glories"
+     ],
+     "position": 66.33333333333333
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 17,
+     "keys": [
+      "glorvix usa"
+     ],
+     "position": 10.941176470588236
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory 60"
+     ],
+     "position": 42
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory accessories"
+     ],
+     "position": 10
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory and shine"
+     ],
+     "position": 44
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory apparel"
+     ],
+     "position": 10
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory b"
+     ],
+     "position": 47.333333333333336
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory beauty"
+     ],
+     "position": 18.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 5,
+     "keys": [
+      "glory brand"
+     ],
+     "position": 56.4
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory brands"
+     ],
+     "position": 49
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 21,
+     "keys": [
+      "glory by"
+     ],
+     "position": 6.761904761904762
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "glory conditioner"
+     ],
+     "position": 7.428571428571429
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory day apparel"
+     ],
+     "position": 27
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory days clothing"
+     ],
+     "position": 42.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory days pants"
+     ],
+     "position": 36
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory days threads"
+     ],
+     "position": 38
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory gel"
+     ],
+     "position": 30
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 16,
+     "keys": [
+      "glory hair"
+     ],
+     "position": 25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory pack"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory power"
+     ],
+     "position": 42
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory product"
+     ],
+     "position": 17
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory products"
+     ],
+     "position": 16.666666666666664
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory professional"
+     ],
+     "position": 44.666666666666664
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory set"
+     ],
+     "position": 9.666666666666666
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "glory shampoo"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory threading"
+     ],
+     "position": 42
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 48,
+     "keys": [
+      "glory us"
+     ],
+     "position": 8.104166666666668
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory usa"
+     ],
+     "position": 19
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory waves"
+     ],
+     "position": 25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory wax"
+     ],
+     "position": 9
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "glory website"
+     ],
+     "position": 20.333333333333332
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glory's"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "glory's beauty"
+     ],
+     "position": 23
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "gloryal"
+     ],
+     "position": 29
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "gloryb"
+     ],
+     "position": 47
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "gloryboom"
+     ],
+     "position": 22.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "glorydays"
+     ],
+     "position": 53
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gloryglostore"
+     ],
+     "position": 5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 5,
+     "keys": [
+      "glorys"
+     ],
+     "position": 23.8
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gloryu"
+     ],
+     "position": 82
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "gloryus"
+     ],
+     "position": 32
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "gucci durag real"
+     ],
+     "position": 30
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "hair brush blades of glory"
+     ],
+     "position": 19
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "hair by glory"
+     ],
+     "position": 26
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "hajháló hg glory"
+     ],
+     "position": 7
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "images"
+     ],
+     "position": 77
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 4,
+     "keys": [
+      "jamaican durag"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "link isii"
+     ],
+     "position": 4
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "mexican durag"
+     ],
+     "position": 16.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "peppermint conditioner"
+     ],
+     "position": 6
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 3,
+     "keys": [
+      "pomade"
+     ],
+     "position": 22
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "pomade formulation"
+     ],
+     "position": 21
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 167,
+     "keys": [
+      "pomade paste"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "product"
+     ],
+     "position": 1
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 6,
+     "keys": [
+      "rhinestone durag"
+     ],
+     "position": 22
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "soldier t shirt"
+     ],
+     "position": 2
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 7,
+     "keys": [
+      "sparkle durag"
+     ],
+     "position": 12
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 2,
+     "keys": [
+      "sparkly durag"
+     ],
+     "position": 12.5
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "uwb pomade"
+     ],
+     "position": 25
+    },
+    {
+     "clicks": 0,
+     "ctr": 0,
+     "impressions": 1,
+     "keys": [
+      "這個要去哪裡買"
+     ],
+     "position": 14
+    }
+   ],
+   "totals": {
+    "clicks": 110,
+    "ctr": 0.09251471825063078,
+    "impressions": 1189,
+    "position": 7.947014297729184
+   }
+  },
+  "windows": {
+   "current": [
+    "2026-10-03",
+    "2026-10-30"
+   ],
+   "prior": [
+    "2026-09-05",
+    "2026-10-02"
+   ]
+  }
+ },
+ "index_status": {},
+ "local_date": "2026-11-02",
+ "sitemap_blog_urls": [
+  "https://glorybyus.com/blogs/the-process"
+ ]
+}
