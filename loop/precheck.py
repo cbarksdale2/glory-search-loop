@@ -2,15 +2,16 @@
 with the one step only the owner can take. Optional ones (Clarity, Bing) report 'not set up'."""
 import json
 import os
+import urllib.parse
 
 from . import clients
 from .core import NamedStop, http
 
 OPTIONAL = {
-    "CLARITY_EXPORT_TOKEN_GLORY": "Clarity AI-referral numbers stay 'not read'. Owner: Shopify admin > Apps > Microsoft Clarity > "
-                                  "Settings > Data export > Generate new API token, then save it as this Actions secret.",
-    "BING_WEBMASTER_API_KEY_GLORY": "Bing numbers stay 'not read'. Owner: Bing Webmaster Tools > Settings > API access > "
-                                    "API key > Generate, then save it as this Actions secret.",
+    "CLARITY_EXPORT_TOKEN_GLORY": "Connect Clarity so the report can count visitors sent by ChatGPT, Perplexity and Copilot: "
+                                  "Shopify admin > Apps > Microsoft Clarity > Settings > Data export > Generate new API token, then hand it to Claude to save.",
+    "BING_WEBMASTER_API_KEY_GLORY": "Connect Bing so the report can show Bing searches: Bing Webmaster Tools > Settings > API access > "
+                                    "Generate API key, then hand it to Claude to save.",
 }
 
 
@@ -51,7 +52,14 @@ def run_all(required=None):
             stops.append(e)
     for var, why in OPTIONAL.items():
         if not os.environ.get(var, "").strip():
-            notes.append(f"{var} not set: {why}")
+            notes.append(why)
+    try:
+        sm = clients.gsc(f"https://www.googleapis.com/webmasters/v3/sites/{urllib.parse.quote(clients.GSC_SITE, safe='')}/sitemaps")
+        if not any(s.get("path", "").endswith("/sitemap.xml") for s in sm.get("sitemap", [])):
+            notes.append("Submit the sitemap in Google Search Console so new posts are found faster: Search Console > Sitemaps > "
+                         "type sitemap.xml > Submit (the loop's Google access is read-only, so it cannot do this itself).")
+    except NamedStop:
+        pass  # a Search Console outage is already a required-credential stop above
     ki = None
     try:
         ki = clients.indexnow_check_keyfile()

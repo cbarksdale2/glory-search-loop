@@ -99,7 +99,7 @@ def owner_steps(stops, notes):
     seen = read_json(p, {})
     out = []
     for text in [str(s) for s in stops] + notes:
-        key = text.split("]")[0] if text.startswith("NAMED STOP") else text.split(" ")[0]
+        key = text.split("]")[0] if text.startswith("NAMED STOP") else " ".join(text.split(" ")[:3])
         first = seen.setdefault(key, now().isoformat())
         days = (now() - dt.datetime.fromisoformat(first)).days
         out.append({"key": key, "text": text, "days": days, "new": days == 0})
@@ -155,16 +155,23 @@ def done_lines(days=7):
 
 
 def post_lines(collect):
-    if not collect or not isinstance(collect.get("articles"), list):
-        return ["Post list: not read"]
-    idx = collect.get("index_status") if isinstance(collect.get("index_status"), dict) else {}
-    out = []
-    for a in collect["articles"]:
+    """Live posts from the collect, plus any the ledger published after that collect ran."""
+    from .heal import live_ledger_posts
+    arts = collect.get("articles") if collect and isinstance(collect.get("articles"), list) else None
+    idx = (collect or {}).get("index_status") if isinstance((collect or {}).get("index_status"), dict) else {}
+    out, seen = [], set()
+    for a in arts or []:
         if not a["isPublished"]:
             continue
         path = f"/blogs/{config('site.json')['blog_handle']}/{a['handle']}"
         st = idx.get(path, {}).get("coverageState", "index status not read") if "not_read" not in idx else "index status not read"
         out.append(f"{a['title']} — {st} — https://glorybyus.com{path}")
+        seen.add(a["handle"])
+    for p in live_ledger_posts():
+        if p["slug"] not in seen:
+            out.append(f"{p['slug'].replace('-', ' ').capitalize()} — published {p['published'][:10]}, not checked by Google yet — {p['url']}")
+    if arts is None and not out:
+        return ["Post list: not read"]
     return out
 
 

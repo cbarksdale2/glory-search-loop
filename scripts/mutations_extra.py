@@ -11,4 +11,5 @@ MUTATIONS = [
     ("8 polish missing", "loop/publish.py", '    if not text.endswith("POLISH-COMPLETE"):', "    if False:", "test_fix08_polish_missing"),
     ("11 foundational never merged", "loop/heal.py", ' and p["slug"] not in foundational:', ":", "test_fix11_remedies"),
     ("11 re-ping not indexed", "loop/heal.py", "            if ix is False:", "            if False:", "test_fix11_remedies"),
+    ("report shows ledger posts", "loop/watchdog.py", "    for p in live_ledger_posts():", "    for p in []:", "test_report_posts"),
 ]
