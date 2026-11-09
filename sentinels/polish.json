@@ -1,8 +1,8 @@
 {
- "census": "polished why-is-pomade-paste-good-for-beards (1141 words) — done by Claude in the build session on 2026-11-02, not by the weekly routine; verifier pass: 9 confirmed, 3 wording fixes",
- "finished": "2026-11-02T23:35:35.218373-05:00",
+ "census": "polished one-pomade-five-styles (1294 words); code gate dry-run clean. WARNING: pick is filed as picks/2026-W45.json (Sunday run) but today is ISO 2026-W46, so the Monday publish will look for picks/2026-W46.json and likely stop with NO_PICK",
+ "finished": "2026-11-09T05:05:18-05:00",
  "job": "polish",
- "local_date": "2026-11-02",
+ "local_date": "2026-11-09",
  "status": "ok",
- "week": "2026-W45"
+ "week": "2026-W46"
 }
