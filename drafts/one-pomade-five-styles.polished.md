@@ -9,7 +9,7 @@ Yes. The same jar handles waves, curls, beards, slick-backs and buns, because th
 
 [Pomade Paste](https://glorybyus.com/products/pomade-paste) is a whipped, light paste. It melts in your hands, gives you hold and shine, and leaves no grease and no flakes. At the end of the day it washes out clean. Glory sums it up in four words: one jar, every texture.
 
-That matters for your routine. Fewer products on the shelf means fewer decisions in the morning. You learn one feel, one amount and one motion, and then you choose the finish that fits the style you want that day. Fresh cut or deep in your wolfing phase, it works at every stage.
+Fewer products means fewer decisions in the morning. Learn one feel, one amount and one motion, then pick the finish for the day. Fresh cut or deep in your wolfing phase, it works at every stage.
 
 ## How do you lay waves down with Pomade Paste?
 Work the paste in, then brush it through. Waves are about pattern, and pattern comes from consistent brushing.
@@ -32,7 +32,7 @@ Finger-style it instead of brushing. Curls and coils want definition, not a flat
 - Twist or rake each section with your fingers to shape it.
 - Need more hold? Add a little more and build from there.
 
-Start small. It is easier to add a second pass than to take one away. The paste is light, so you can build in layers until the curls sit the way you want them, with shine and without grease.
+Start small. The paste is light, so you can build in layers until the curls sit the way you want, with shine and without grease.
 
 ## How do you keep a beard line clean?
 Smooth it down, then brush it in. A beard looks sharp when every stray hair sits flat along the cheek and jaw.
@@ -69,7 +69,7 @@ Wash, condition, hold, brush, wrap. Pomade Paste is the hold step, and it fits i
 | Slick-back | Smooth back | Your palms |
 | Bun | Smooth over the surface | Your palms |
 
-On wash day, clean with a shampoo bar that lathers without stripping, then condition so your hair has slip and detangles easy. Then comes the hold.
+On wash day, rub the [Shampoo & Body Bar](https://glorybyus.com/products/rosemary-myrrh-shampoo-body-bar) on your scalp and hair to build a thick lather that cleans without stripping. Rinse, then follow with the [Hydrating Conditioner](https://glorybyus.com/products/hydrating-conditioner) so your hair has slip and detangles easy. Then comes the hold.
 
 If you want all three in one box, the [Big 3 Hydration Set](https://glorybyus.com/products/glory-set) is the Shampoo & Body Bar, the Conditioner and Pomade Paste together. If brushing is the center of your routine, the [Scalp Health Varsity Set](https://glorybyus.com/products/scalp-health-varsity-set) puts the Conditioner, the Brush (Your Hair) and Pomade Paste in one set.
 
@@ -97,5 +97,7 @@ SOURCES:
 - https://glorybyus.com/products/durag
 - https://glorybyus.com/products/glory-set
 - https://glorybyus.com/products/scalp-health-varsity-set
+- https://glorybyus.com/products/rosemary-myrrh-shampoo-body-bar
+- https://glorybyus.com/products/hydrating-conditioner
 - https://glorybyus.com/blogs/the-process/why-is-pomade-paste-good-for-beards
 POLISH-COMPLETE
