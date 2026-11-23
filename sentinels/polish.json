@@ -1,8 +1,8 @@
 {
  "job": "polish",
  "status": "ok",
- "census": "polished one-pomade-five-styles (1279 words); code gate dry-run clean. WARNING: pick is filed as picks/2026-W46.json (Sunday run) but today is ISO 2026-W47, so the Monday publish will look for picks/2026-W47.json and likely stop with NO_PICK again (second week running)",
- "local_date": "2026-11-16",
- "week": "2026-W47",
- "finished": "2026-11-16T05:09:02-05:00"
+ "census": "polished one-pomade-five-styles (1292 words) from the 2026-11-22 redraft, re-checked against facts.json and brand.json (0 banned/never-say/other-brand hits, 6 H2s, 6 FAQs 49-54 words). Added a listed-only ingredients FAQ. WARNING: no picks/2026-W48.json exists. Sunday's pick was filed as picks/2026-W47.json, so today's Monday publish (ISO 2026-W48) will most likely stop with NO_PICK for the third week running. The Sunday pick/draft jobs and the Monday publish disagree on the ISO week; this needs a code fix on main.",
+ "local_date": "2026-11-23",
+ "week": "2026-W48",
+ "finished": "2026-11-23T05:08:20-05:00"
 }

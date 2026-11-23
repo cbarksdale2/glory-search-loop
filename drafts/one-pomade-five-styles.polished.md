@@ -9,7 +9,7 @@ Yes. The same jar handles waves, curls, beards, slick-backs and buns, because th
 
 [Pomade Paste](https://glorybyus.com/products/pomade-paste) is a whipped, light paste. It melts in your hands, gives you hold and shine, and leaves no grease and no flakes. At the end of the day it washes out clean. Glory sums it up in four words: one jar, every texture.
 
-Fewer products means fewer decisions in the morning. Learn one feel, one amount and one motion, then pick the finish for the day. Fresh cut or deep in your wolfing phase, it works at every stage.
+Learn one amount and one motion, then pick the finish for the day.
 
 ## How do you lay waves down with Pomade Paste?
 Work the paste in, then brush it through. Waves are about pattern, and pattern comes from consistent brushing.
@@ -22,7 +22,7 @@ Work the paste in, then brush it through. Waves are about pattern, and pattern c
 
 The [Brush (Your Hair)](https://glorybyus.com/products/brush-your-hair) is a curved brush with 100% boar bristles in a soft/medium feel. The curve follows the shape of your head, so every stroke covers more of your waves. On a fresh cut, let the bristles glide light so you don't rough up the cut. While you're wolfing, use steady pressure to lay every strand down.
 
-The [Glory Double-sided Checkered Durag](https://glorybyus.com/products/durag) is the last step. Put it on after you brush and it keeps your waves laid and your moisture in, overnight or through the day. Its outer seams are stitched so they don't leave lines on your forehead.
+The [Glory Double-sided Checkered Durag](https://glorybyus.com/products/durag) is the last step. Put it on after you brush and it keeps your waves laid and your moisture in, overnight or through the day.
 
 ## How do you define curls and coils with it?
 Finger-style it instead of brushing. Curls and coils want definition, not a flat lay, so your hands do the work.
@@ -31,8 +31,6 @@ Finger-style it instead of brushing. Curls and coils want definition, not a flat
 - Work it through from root to tip, section by section.
 - Twist or rake each section with your fingers to shape it.
 - Need more hold? Add a little more and build from there.
-
-Start small. The paste is light, so you can build in layers until the curls sit the way you want, with shine and without grease.
 
 ## How do you keep a beard line clean?
 Smooth it down, then brush it in. A beard looks sharp when every stray hair sits flat along the cheek and jaw.
@@ -55,8 +53,6 @@ Smooth it down and set the shape. The page puts it plainly: smooth it down for a
 - Work the paste through before you gather the hair.
 - Gather and secure the bun.
 - Smooth your palms over the surface to lay down loose hairs at the edges.
-
-The same rule holds here as everywhere else: start with a dime-sized amount, then build. You get hold and shine without the heavy, greasy look.
 
 ## What does the full routine look like?
 Wash, condition, hold, brush, wrap. Pomade Paste is the hold step, and it fits into a routine that is the same every day, whatever style you wear.
@@ -90,6 +86,9 @@ No. Brush it through for waves and a beard, finger-style it for curls and coils,
 
 ### Should I wear a durag after styling?
 For waves, yes. Put the durag on after you brush: it keeps your waves laid and your moisture in, overnight or through the day. Pull it smoothly over your crown and tie the wide, flat straps snug but not tight, with no tension. Glory's durag is reversible, with two looks in one.
+
+### What's in Pomade Paste?
+The ingredient list on the product page reads: water, aloe vera gel, shea butter, beeswax, emulsifying wax, soy wax, grape seed oil, avocado oil, vegetable glycerin, stearic acid, vitamin E, lemongrass essential oil and geranium oil. It's a whipped, light paste, so a dime-sized amount goes a long way in your routine.
 
 SOURCES:
 - https://glorybyus.com/products/pomade-paste
