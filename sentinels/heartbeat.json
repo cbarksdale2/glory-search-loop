@@ -1,8 +1,8 @@
 {
- "census": "heartbeat: newest report 5.8 days old; ok",
- "finished": "2026-11-22T06:21:40.098446-05:00",
+ "census": "heartbeat: newest report 6.8 days old; ok",
+ "finished": "2026-11-23T06:29:38.688168-05:00",
  "job": "heartbeat",
- "local_date": "2026-11-22",
+ "local_date": "2026-11-23",
  "status": "ok",
- "week": "2026-W47"
+ "week": "2026-W48"
 }

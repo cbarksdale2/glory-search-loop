@@ -1,8 +1,8 @@
 {
- "census": "collected 5/5 sources: 75 search queries, 1 live posts, 6 pages crawled",
- "finished": "2026-11-22T06:21:39.692466-05:00",
+ "census": "collected 5/5 sources: 78 search queries, 1 live posts, 6 pages crawled",
+ "finished": "2026-11-23T06:29:38.324153-05:00",
  "job": "collect",
- "local_date": "2026-11-22",
+ "local_date": "2026-11-23",
  "status": "ok",
- "week": "2026-W47"
+ "week": "2026-W48"
 }
