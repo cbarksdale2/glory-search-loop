@@ -1,9 +1,9 @@
 {
  "census": "NAMED STOP [NO_PICK] no pick this week, so nothing to publish",
  "exit": 2,
- "finished": "2026-11-16T13:26:04.340825-05:00",
+ "finished": "2026-11-23T08:57:36.447791-05:00",
  "job": "publish",
- "local_date": "2026-11-16",
+ "local_date": "2026-11-23",
  "status": "NO_PICK",
- "week": "2026-W47"
+ "week": "2026-W48"
 }
